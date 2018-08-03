@@ -1,4 +1,4 @@
-# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 - [Awesome C++](#awesome-cpp)
@@ -330,6 +330,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Torque2D](https://github.com/GarageGames/Torque2D) - An open-source and cross-platform C++ engine built for 2D game development. [MIT] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D) - An open-source C++ engine built for 3D game development. [MIT] [website](https://www.garagegames.com/products/torque-3d)
 * [Urho3D](https://urho3d.github.io/) - A free lightweight, cross-platform 2D and 3D game engine implemented in C++. Greatly inspired by OGRE and Horde3D. [MIT]
+
+## GIT
+
+* [Pro Git](https://git-scm.com/book/en/v2)
+* [Github Guides](https://guides.github.com/introduction/git-handbook/)
+* [Git Tutorials](https://learngitbranching.js.org/)
 
 ## GUI
 *Graphic User Interface*
